@@ -7,7 +7,7 @@ public class Print_name_age_mark {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        String Name;       // Capital S in String
+        String Name;       
         int Age, Mark;
 
         System.out.println("Please enter your Name:");
